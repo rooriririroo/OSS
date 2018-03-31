@@ -6,7 +6,7 @@ void output(int *p, int N);
 int main()
 {
 	int M, N, k;
-	int x[100], y[100];
+	int x[100], y[100] = {0};
         int i;
 	
 	scanf("%d %d", &M, &N);
