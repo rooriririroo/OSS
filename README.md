@@ -1,2 +1,4 @@
 # 오픈소스SW 개론
-To test <git pull>
+
+Git & github 연습공간
+update AGAIN!
